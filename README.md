@@ -1,5 +1,5 @@
-# nextGame_currentGame
-Your favourite NHL teams next/current game information widget for the Übersicht App
+# nextGame_currentGame-NHL
+Your favourite NHL team's next/current game information widget for the Übersicht App
 
 Displays the date and time of your team's next game, oppenent, and current record of both teams.
 
