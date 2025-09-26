@@ -5,4 +5,4 @@ Displays the date and time of your team's next game, oppenent, and current recor
 
 During the game - the widget displays and updates scores, period, time and powerplay information.
 
-Your team and timezone will need to be edited by opening, editing and saving NextGame-CurrentGame.widget/index.coffee
+Your team will need to be edited by opening, editing and saving NextGame-CurrentGame-NHL.coffee
